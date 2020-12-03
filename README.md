@@ -26,3 +26,4 @@ report of progresses based on image deblocking and artifacts reduction papers
 | Title | Link |
 | :--:  | :--: |
 | DCT and JPEG compression | [stanford](https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossy/jpeg/dct.htm) |
+| Quantization tables in JPEG compression | [roberstocker](http://www.robertstocker.co.uk/jpeg/jpeg_new_10.htm) |
