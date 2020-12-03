@@ -6,6 +6,7 @@ report of progresses based on image deblocking and artifacts reduction papers
 | :-----| :----: | :----: | :----: |
 | 2020 | [Pyramid Attention Networks for Image Restoration](https://arxiv.org/abs/2004.13824) | DeepAI-Unpublished | [github](https://github.com/SHI-Labs/Pyramid-Attention-Networks) |
 | 2019 | [Implicit Dual-domain Convolutional Network for Robust Color Image Compression Artifact Reduction](https://arxiv.org/abs/1810.08042) | IEEE-TCSVT | [github](https://github.com/zhenngbolun/IDCN) |
+| 2020 | [Residual Dense Network for Image Restoration](https://arxiv.org/abs/1812.10477) | IEEE-TPAMI | [github](https://github.com/yulunzhang/RDN) |
 | 2019 | [Residual Non-local Attention Networks for Image Restoration](https://openreview.net/pdf?id=HkeGhoA5FX) | ICLR | [github](https://github.com/yulunzhang/RNAN) |
 | 2019 | [Multi-Level Wavelet Convolutional Neural Networks](https://arxiv.org/abs/1907.03128) | IEEE-Access | [github](https://github.com/zhenngbolun/IDCN) |
 | 2017 | [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf) Modified for AR | [CVPR-CVF](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.html) | [github](https://github.com/developer0hye/EDAR) |
